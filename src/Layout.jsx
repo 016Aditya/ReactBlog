@@ -4,7 +4,6 @@ const Layout = ({children}) => {
     <>
     <Navbar/>
     {children}
-    <h1>This is a test</h1>
     </>
   )
 }
