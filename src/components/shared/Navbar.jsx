@@ -47,5 +47,4 @@ export function Navbar() {
   )
 }
 
-// jskahdwkakd
 export default Navbar
