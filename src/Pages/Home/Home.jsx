@@ -52,6 +52,9 @@ const Home = () => {
           Next
         </Button>
       </div>
+      <footer className="mt-12 p-4 text-center text-sm text-gray-500 border-t border-gray-200">
+        © {new Date().getFullYear()} MyBlog. All rights reserved.
+      </footer>
     </>
   );
 };
